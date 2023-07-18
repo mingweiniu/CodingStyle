@@ -1,0 +1,3 @@
+uBLAS version with debugging off 
+
+-DNDEBUG -DBOOST_UBLAS_NDEBUG
